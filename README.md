@@ -6,4 +6,4 @@ free for everyone jangan di jual belikan
 
 # How to use 
 
-python3 moonton.py
+<a href="https://www.sans.eu.org/2021/01/review-cara-kerja-bot-shopee-sans.html" target="_blank">python3 moonton.py</a>
